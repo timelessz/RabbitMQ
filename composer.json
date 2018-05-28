@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/package_name",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "赵兴壮",
+      "email": "834916321@qq.com"
+    }
+  ],
+  "require": {
+    "php-amqplib/php-amqplib": ">=2.6.1"
+  }
+}
